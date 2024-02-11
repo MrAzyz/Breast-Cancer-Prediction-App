@@ -2,6 +2,8 @@
 
 This Streamlit app predicts whether a person is likely to have breast cancer based on input parameters such as radius, texture, perimeter, area, and smoothness.
 
+![Alt text](screenshots/image.png)
+
 ## Dataset
 
 The dataset used for training the model is the [Breast Cancer Wisconsin (Diagnostic) Data Set](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data). The data has been preprocessed to remove irrelevant columns and to convert the diagnosis column to binary values (1 for malignant, 0 for benign).
